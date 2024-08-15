@@ -1,0 +1,35 @@
+#myDiv{
+    padding: 35px;
+    border-radius:1em;
+    }
+    table{
+    border:1px  ;
+    margin-left: auto;
+    margin-right: auto;
+    }
+    input[type="button"]{
+    width: 150;
+    padding: 28px 47px;
+    background-color:rgba(248, 121, 121, 0.519);
+   
+    color:black;
+    font-size: 30px;
+    font-weight: bold;
+    border: none;
+    border-radius: 15px;
+    }
+    input[type="text"]{
+    font-size:large;
+    font-weight: bold;
+    padding: 20px 5px;
+    background-color:rgb(255, 228, 228);
+    border: solid rgb(12, 0, 0);
+   
+    width: 35%;
+    height:7%;
+    }
+    body{
+    background-color: #abaeb5;
+    background-size:100%;
+   
+    }
